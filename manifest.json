@@ -2,7 +2,7 @@
     "files": {
         "README.md": "659c83549ccc495924d1f818461b6b4fe6a3a353439bd4de04505a7df1ec2b19",
         "index.js": "b755174c14ba4117e88f1947ecdf397ec69b3aeb4688930c04889829ac6fd716",
-        "module.json": "a823bd25a2be5f6d85676dcb3e1ce2f224931b02c515320c4c4d2ef838614d55"
+        "module.json": "ac7f660ac63999984f85eddeb869d87b1df8337a60755f2059c416b507a600c1"
     },
     "defs": {
         "C_PLAYER_LOCATION": 5,
