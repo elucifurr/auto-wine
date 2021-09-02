@@ -1,0 +1,13 @@
+{
+    "name": "autowine",
+    "author": "Elucifur",
+    "description": "Auto use wine.",
+    "options": {
+        "niceName": "Auto-Wine",
+        "guiName": "Auto-Wine"
+    },
+    "version": "",
+    "supportUrl": "https://github.com/elucifurr/auto-wine/issues",
+    "servers": ["https://raw.githubusercontent.com/elucifurr/auto-wine/main/"],
+    "disableAutoUpdate": false
+}
